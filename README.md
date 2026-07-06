@@ -15,10 +15,10 @@ RasSetu is a modern web application designed to act as a seamless bridge ("Setu"
 
 ## 🛠️ Tech Stack
 
-*   **Frontend:** [e.g., React.js / Vue.js / HTML5 & Tailwind CSS]
-*   **Backend:** [e.g., Node.js / Python Django / FastAPI]
-*   **Database:** [e.g., MongoDB / PostgreSQL]
-*   **Hosting/DevOps:** [e.g., Vercel / Netlify / AWS / Docker]
+*   **Frontend:** [React.js / HTML5 & Tailwind CSS]
+*   **Backend:** [Node.js / Python Django / RecipeDB]
+*   **Database:** [MongoDB]
+*   **Hosting/DevOps:** [Vercel]
 
 ---
 
