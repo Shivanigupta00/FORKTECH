@@ -59,7 +59,8 @@ Contributions make the open-source community an amazing place to learn, inspire,
 
 5. Open a Pull Request
 
-📄 License
+📄 **License**
+
 Distributed under the MIT License. See LICENSE for more information.
 
 
